@@ -1,0 +1,26 @@
+.bg-custom{
+    background-color: green;
+    border-bottom: 2px solid orange;
+    color: white;
+}
+.bg-home{
+    background-image:url("img/Home.jpg");
+}
+.bg-student{
+    background-image: url("img/Student.png");
+}
+.bg-trainer{
+    background-image: url("img/Trainers.png");
+}
+.bg-course{
+    background-image: url("img/Courses.jpg");
+}
+.bg-assignment{
+    background-image: url("img/Assignments.jpg");
+}
+.whiteLetters{
+    color: white;
+}
+.orange{
+    background-color: orange;
+}
